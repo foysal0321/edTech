@@ -6,3 +6,6 @@
 .header-caption{
     margin-bottom: 100px;
 }
+.myimg{
+    filter: brightness(50%);
+}
