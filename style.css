@@ -1,5 +1,4 @@
 
-
 .carousel-item img{
     height: 650px;
 }
@@ -8,4 +7,10 @@
 }
 .myimg{
     filter: brightness(50%);
+}
+.mybtn1{
+    margin-left: -80px;
+}
+.mybtn2{
+    margin-right: -80px;
 }
